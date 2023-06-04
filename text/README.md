@@ -4,7 +4,7 @@ This code implementation about [Jaro-Winkler](https://en.wikipedia.org/wiki/Jaro
 
 This code is not intended to be an official library, but only to compare existing implementations on text similarity to analyse performance and accuracy between different libraries.
 
-The library used to check beanchmark and accuracy are;
+The library used to check benchmark and accuracy are;
 - [matchr][github-matchr]
 - [smetrics][github-smetrics]
 
