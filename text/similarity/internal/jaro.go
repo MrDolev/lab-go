@@ -52,7 +52,6 @@ type Triple struct {
 	prefix   int
 }
 
-// TODO; try to remove the found variable and put break
 func getTriple(firstRune []rune, secondRune []rune) Triple {
 	var minRune, maxRune []rune
 	minRune, maxRune = getMinMaxRune(firstRune, secondRune)
@@ -97,7 +96,6 @@ func getMinMaxRune(firstRune []rune, secondRune []rune) ([]rune, []rune) {
 	}
 }
 
-// TODO; improve remove min rune and put the min value
 func getPrefix(min []rune, firstRune []rune, secondRune []rune) int {
 	prefix := 0
 	found := false
