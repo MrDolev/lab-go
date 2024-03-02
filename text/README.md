@@ -2,7 +2,7 @@
 
 This code implementation about [Jaro-Winkler](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance) is inspired by [Apache Commons Text][github-apache]. 
 
-This code is not intended to be an official library, but only to compare existing implementations on text similarity to analyse performance and accuracy between different libraries.
+This code is not intended to be an official library, but only to compare existing implementations on text similarity to analyze performance and accuracy between different libraries.
 
 The library used to check benchmark and accuracy are;
 - [matchr][github-matchr]
