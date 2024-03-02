@@ -8,7 +8,7 @@ The library used to check benchmark and accuracy are;
 - [matchr][github-matchr]
 - [smetrics][github-smetrics]
 
-# Project strcuture
+# Project structure
 Inside examples you can compile and execute the main program that is possible to investigate the benchmark, accuracy about three implementations about similarity.
 
 # Run the benchmark and accuracy
